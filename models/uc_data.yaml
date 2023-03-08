@@ -1,0 +1,7 @@
+train: C:/Users/violet/Desktop/bdd100k/score/images/train
+val: C:/Users/violet/Desktop/bdd100k/score/images/val
+test: C:/Users/violet/Desktop/bdd100k/score/images/test
+
+
+nc: 13
+names: ['person','rider','car','bus','truck','bike','motor','tl_green','tl_red','tl_yellow','tl_none','t_sign','train']
